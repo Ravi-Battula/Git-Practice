@@ -16,3 +16,5 @@ otherwise you will not get anything
 Fresh Practice
 i don't know but doing 
 
+Adding data as to ignore some files
+*.gitignore
